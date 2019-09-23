@@ -1,0 +1,1 @@
+Audio recordings from the Freesound packs Electronic Tanpura (https://freesound.org/people/sankalp/packs/9600/) and Acoustic Tanpura (https://freesound.org/people/sankalp/packs/9571/).

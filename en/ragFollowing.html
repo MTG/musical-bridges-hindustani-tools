@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rāg and tāl visualizer</title>
+    <link href="../style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <script src="../scripts/p5.min.js"></script>
+    <script src="../scripts/p5.dom.min.js"></script>
+    <script src="../scripts/p5.sound.min.js"></script>
+    <script src="../scripts/ragFollowingSketch.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a id="language" href="../es/ragFollowing.html">
+        <img id="flag" src="../images/spanish.png" alt="spanish flag">
+        Español
+      </a>
+      <a id="home" href="../index.html">Home</a>
+    </nav>
+    <main>
+      <h2>Rāg and tāl visualizer</h2>
+      <p>The melody in any <i>khayāl</i> performance is determined by the rāg, whose correct and moving expression is the main goal of the singer in this genre. This visualizer allows to follow the melodic progression through a rāg in real performances of <i>khayāl</i>, as well as the progression of the tāl cycles. Read the <a href="#instructions">instructions</a> below.</p>
+      <div id="sketch-holder">
+        <a id="sa-info-link" target="_blank" a:link="text-decoration: none"></a>
+      </div>
+      <h3 id="instructions">Instructions</h3>
+      <p id="nota"><b>Note:</b> This tool still is work in progress and might experience some malfunctions. For an optimal performance, it is advised to use it in a computer (its use in tablets and cellphones might be too slow and cause synchronization problems) and with the browser <a href="https://www.google.com/chrome/">Chrome</a>.</p>
+      <ol>
+        <li>Select a recording from the dropdown menu. Each option's title contains, first, the performed rāg, followed by the singer's name, the performed tāl or tāls in brackets, and the recording's duration. If instead of a tāl or tāls the word <i>calan</i> is given in brackets, the recording does not contain a <i>khayāl</i> but a the <i>calan</i> of the rāg, that it is performed without tāl. The navigator at the bottom presents the same functionalities as the one in the <a href="talFollowing.html">tāl visualizer</a>.</li>
+        <li>Once a recording is selected, the range of performed <i>svaras</i> vertically appears at the right. The <i>ṣaḍja</i> is indicated with a dark colored circle. An empty circle with a thick border indicates the rāg's <i>vādī</i>, and one with a thin border indicates the rāg's <i>saṃvādī</i>. In case no <i>svar</i> is indicated as <i>vādī</i> or <i>saṃvādī</i>, that function is taken by the <i>ṣaḍja</i>. Clicking in the computer's keyboard the letters indicated beside each <i>svar</i>, its pitch is played according to the automatic analysis of the corresponding recording. The navigator of the bottom displays information about the performed tāls and each <i>sam</i> position, as in the <a href="talFollowing.html">tāl visualizer</a>. Besides, the "+info" link redirects to the recording's page in the <a href="https://musicbrainz.org/">MusicBrainz</a> website.</li>
+        <li>To listen to the recording, first the audio must be loaded. For that, click the "Load the audio" button. Depending on the recording's duration, the internet connection and other factors, <b>this process might last from few seconds to more than one minute</b>. Once the recording is loaded, the tāl circumference appears and a clock over the navigator indicating the total duration of the recording and the current playing time. Now the recording can be played by clicking the "Play!" button.</li>
+        <li>While the recording is being played, a red cursor indicates the melodic progression over the <i>svaras</i> range. At the same time, the tāl circumference shows the same information as in the <a href="talFollowing.html">tāl visualizer</a>.</li>
+        <li>At any time, you can deselect the options <i>ṭhekā</i>, to hide the tāl's <i>ṭhekā</i> del tāl, "tāl", to hide any information about the tāl, or "cursor", to hide the cursor over the <i>svaras</i>' range.</li>
+      </ol>
+    </main>
+    <section id="credits">
+      <p>The representation of tāl here used is inspired in the one developed and used by <a href="https://www.ragasphere.com/">RagaSphere</a>.</p>
+      <p>The <i>calan</i> recordings are taken from the material developed by <a href="https://www.ragasphere.com/">RagaSphere</a> for the Kadenze program <a href="https://www.kadenze.com/programs/north-indian-classical-music">North Indian Classical Music</a>, and used here with the permission of their owners.</p>
+    </section>
+    <footer>
+      <span> <a href="https://www.upf.edu/web/musicalbridges"><img id="musicalbridges" src="../images/musicalbridges.png" alt="Logo de Musical Bridges"></a></span>
+    </footer>
+  </body>
+</html>

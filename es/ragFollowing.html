@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizador de rāg y tāl</title>
+    <link href="../style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <script src="../scripts/p5.min.js"></script>
+    <script src="../scripts/p5.dom.min.js"></script>
+    <script src="../scripts/p5.sound.min.js"></script>
+    <script src="../scripts/ragFollowingSketch.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a id="language" href="../en/ragFollowing.html">
+        <img id="flag" src="../images/english.png" alt="spanish flag">
+        English
+      </a>
+      <a id="home" href="../es/index.html">Inicio</a>
+    </nav>
+    <main>
+      <h2>Visualizador de rāg y tāl</h2>
+      <p>La melodía de cualquier interpretación de <i>khayāl</i> viene determinada por el rāg, cuya correcta y conmovedora expresión es el principal objetivo del o la cantante de este género. Este visualizador permite seguir la progresión melódica a través del rāg en interpretaciones reales de <i>khayāl</i>, así como el progreso de los ciclos de tāl. Lee las <a href="#instructions">instrucciones</a> debajo.</p>
+      <div id="sketch-holder">
+        <a id="sa-info-link" target="_blank" a:link="text-decoration: none"></a>
+      </div>
+      <h3 id="instructions">Instrucciones</h3>
+      <p id="nota"><b>Nota:</b> Esta herramienta está aún en desarrollo y puede experimentar algunos problemas. Para un rendimiento óptimo, se recomienda usarla en un ordenador (el uso en tablets y teléfonos móviles puede ser demasiado lento y ocasionar problemas de sincronización) y con el navegador <a href="https://www.google.com/chrome/">Chrome</a>.</p>
+      <ol>
+        <li>Elige una grabación del menú desplegable. El título de cada opción contiene, en primer lugar, el rāg interpretado en la grabación, seguido del nombre del o la cantante. A continuación, se indica entre paréntesis el tāl o los tāls interpretados. Cuando en lugar de un tāl aparece la palabra <i>calan</i> entre paréntesis, esas grabaciones no contienen un <i>khayāl</i> sino el <i>calan</i> del rāg, que se interpreta sin tāl. Finalmente, el título de cada opción también recoge la duración de cada grabación. El recuadro de la parte inferior es un navegador que presenta las mismas funciones que en el <a href="talFollowing.html">visualizador de tāl</a>.</li>
+        <li>Una vez elegida una grabación, aparecerá en vertical a la derecha el rango de <i>svaras</i> interpretado. El <i>ṣaḍja</i> viene indicado con un círculo relleno de color oscuro. Un círculo vacío con el borde grueso indica el <i>vādī</i> del rāg y uno con borde fino el <i>saṃvādī</i> del rāg. En caso de que no haya un <i>svar</i> señalado como <i>vādī</i> o <i>saṃvādī</i>, dicha función la realiza el <i>ṣaḍja</i>. Pulsando en el teclado las teclas correspondientes a las letras indicadas al lado de cada <i>svar</i> se puede oír la altura de cada uno de ellos según el análisis de la correspondiente grabación. En el navegador de la parte inferior aparecerá información sobre los tāl interpretados y la posición de cada <i>sam</i>, al igual que en el <a href="talFollowing.html">visualizador de tāl</a>. Además, aperecerá el link "+info", que redirige a la página de la grabación en el portal <a href="https://musicbrainz.org/">MusicBrainz</a> (solo en inglés).</li>
+        <li>Para escuchar la grabación, primero se ha de cargar el audio. Para eso, pulsa el botón "Carga el audio". Dependiendo de la duración de la grabación, la conexión a internet y otros factores, esto puede durar entre varios segundos o un par de minutos. Una vez cargado, aparecerá el círculo del tāl y un reloj sobre el navegador indicando la duración total de la grabación y el progreso temporal de la misma. Ya puedes escuchar la grabación pulsando el botón "¡Comienza!".</li>
+        <li>Durante la reproducción de la gragación, un cursor rojo irá indicando el progreso de la melodía sobre el rango de <i>svaras</i>. Al mismo tiempo, el círculo de tāl mostrará la misma información que en el <a href="talFollowing.html">visualizador de tāl</a>.</li>
+        <li>En cualquier momento se pueden deseleccionar las opciones "ṭhekā", para dejar de ver el <i>ṭhekā</i> del tāl, "tāl", para dejar de ver cualquier información sobre tāl, o "cursor", para dejar de ver el cursor sobre el rango de <i>svaras</i>.</li>
+      </ol>
+    </main>
+    <section id="credits">
+      <p>La representation de tāl utilizada aquí está inspirada en la desarrollada y usada por <a href="https://www.ragasphere.com/">RagaSphere</a>.</p>
+      <p>Las grabaciones de <i>calan</i> provienen del material desarrollado por <a href="https://www.ragasphere.com/">RagaSphere</a> para <br>el programa de Kadenze <a href="https://www.kadenze.com/programs/north-indian-classical-music">North Indian Classical Music</a>, y son usadas aquí con el permiso de sus propietarios.</p>
+    </section>
+    <footer>
+      <span> <a href="https://www.upf.edu/web/musicalbridges"><img id="musicalbridges" src="../images/musicalbridges.png" alt="Logo de Musical Bridges"></a></span>
+    </footer>
+  </body>
+</html>

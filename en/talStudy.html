@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tāl laboratory</title>
+    <link href="../style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <script src="../scripts/p5.min.js"></script>
+    <script src="../scripts/p5.dom.min.js"></script>
+    <script src="../scripts/p5.sound.min.js"></script>
+    <script src="../scripts/talStudySketch.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a id="language" href="../es/talStudy.html">
+        <img id="flag" src="../images/spanish.png" alt="spanish flag">
+        Español
+      </a>
+      <a id="home" href="../index.html">Home</a>
+    </nav>
+    <main>
+      <h2>Tāl laboratory</h2>
+      <p>This "laboratory" allows to dissect, explore and interact with some of the most representative tāls used in Hindustani classical music. Read the <a href="#instructions">instructions</a> below.</p>
+      <div id="sketch-holder"></div>
+      <h3 id="instructions">Instructions</h3>
+      <p id="nota"><b>Note:</b> This tool still is work in progress and might experience some malfunctions. For an optimal performance, it is advised to use it in a computer (its use in tablets and cellphones might be too slow and cause synchronization problems) and with the browser <a href="https://www.google.com/chrome/">Chrome</a>.</p>
+      <ol>
+        <li>To start, choose a tāl from the dropdown menu. The number in brackets shows each tāl's <i>mātrās</i>. Once a tāl is chosen, its corresponding cycle appears as a big circumference. Each circle along this circumference represents a <i>mātrā</i>. The one on the top always correspond to the <i>sam</i>. Bigger circles that are accompanied by a hand gesture indicate the first <i>mātrā</i> of a <i>vibhāg</i>. Colored circles indicate <i>tālī</i> and the empty ones indicate <i>khālī</i>. The icon <img id="icon" src="../images/clap.svg" alt="claping hands"> indicates that its corresponding <i>mātrā</i> is marked by a clap, and the icon <img id="icon" src="../images/wave.svg" alt="waving hand"> indicates that its corresponding <i>mātrā</i> is marked with a hand wave.</li>
+        <li>Syllables along the tāl circumference indicate the <i>bol</i> that the tablā performs in that position of the tāl cycle. The sound that the tablā plays can be listened to by clicking each <i>bol</i>.</li>
+        <li>To listen to the full <i>ṭhekā</i> of the tāl click the "Start!" button. A red button along the tāl circumference shows its progress. An increasingly dark color shadow indicates the metrical tension that the tāl builds during its development, and its resolution when it reaches the <i>sam</i>. The slider at the bottom allows to adjust the number of "mpm" or "<i>mātrās</i> per minute," which is specified in a marker at the left of the slider. To listen again to the sound of each <i>bol</i> the playing of the tāl's <i>ṭhekā</i> must be stopped.</li>
+        <li>As long as you become familiarized with the tāl's structure, you can deselect the options "<i>ṭhekā</i>", to hide the <i>bols</i>, "cursor", to hide the red cursor, and "tāl", to hide the <i>mātrās</i>.</li>
+      </ol>
+    </main>
+    <section id="credits">
+      <p>The representation of tāl here used is inspired in the one developed and used by <a href="https://www.ragasphere.com/">RagaSphere</a>.</p>
+    </section>
+    <footer>
+      <span> <a href="https://www.upf.edu/web/musicalbridges"><img id="musicalbridges" src="../images/musicalbridges.png" alt="Logo de Musical Bridges"></a></span>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Busca el sam!</title>
+    <link href="../style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <script src="../scripts/p5.min.js"></script>
+    <script src="../scripts/p5.dom.min.js"></script>
+    <script src="../scripts/p5.sound.min.js"></script>
+    <script src="../scripts/talPracticeSketch.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a id="language" href="../en/talPractice.html">
+        <img id="flag" src="../images/english.png" alt="spanish flag">
+        English
+      </a>
+      <a id="home" href="../es/index.html">Inicio</a>
+    </nav>
+    <main>
+      <h2>¡Busca el <i>sam</i>!</h2>
+      <p>Para poner en práctica lo aprendido hasta ahora, intenta encontrar el <i>sam</i> de cada ciclo de tāl durante una interpretación real de un <i>khayāl</i>, ¡e intenta ganar la mayor cantidad de puntos posibles! Lee las <a href="#instructions">instrucciones</a> debajo.</p>
+      <div id="sketch-holder">
+        <a id="info-link" target="_blank" a:link="text-decoration: none"></a>
+      </div>
+      <h3 id="instructions">Instrucciones</h3>
+      <p id="nota"><b>Nota:</b> Esta herramienta está aún en desarrollo y puede experimentar algunos problemas. Para un rendimiento óptimo, se recomienda usarla en un ordenador (el uso en tablets y teléfonos móviles puede ser demasiado lento y ocasionar problemas de sincronización) y con el navegador <a href="https://www.google.com/chrome/">Chrome</a>.</p>
+      <ol>
+        <li>Antes de comenzar a poner a prueba tu capacidad de seguir el <i>sam</i> de diferentes tāls, es recomendable que te familiarices con ellos en el <a href="talStudy.html">laboratorio</a> y el <a href="talFollowing.html">visualizador</a> de tāl. De hecho, este pequeño juego se maneja igual y tiene las mismas funciones el el visualizador de tāl.</li>
+        <li>La gran diferencia es que ahora podrás comprobar si vas siguiendo el ciclo del tāl correctamente, pulsando la tecla <b>S</b> cada vez que llegue un <i>sam</i>. Cada vez que pulses esta tecla, se sumará 1 al marcador de "Intentos". Si pulsaste en el momento adecuado, el marcador de "Aciertos" subirá 1. ¡Pero no todos los intentos valen los mismos puntos! Si aciertas con las opciones "<i>ṭhekā</i>", "cursor" y "tāl" seleccionadas conseguirás 1 punto por cada acierto. Si deselecionas la opción "<i>ṭhekā</i>" este punto se multiplicará por 2. Si además deseleccionas la opción "cursor", los puntos se multiplicarán por 3. Y también se multiplicarán por 3 si deseleccionas la opcción "tāl". Por tanto, cada vez que aciertes la posición del <i>sam</i> con las tres opciones deseleccionadas, conseguirás ¡18 puntos! ¡Ánimo, a ver cuántos puntos logras conseguir sin equivocarte!</li>
+      </ol>
+    </main>
+    <section id="credits">
+      <p>La representation de tāl utilizada aquí está inspirada en la desarrollada y usada por <a href="https://www.ragasphere.com/">RagaSphere</a>.</p>
+    </section>
+    <footer>
+      <span> <a href="https://www.upf.edu/web/musicalbridges"><img id="musicalbridges" src="../images/musicalbridges.png" alt="Logo de Musical Bridges"></a></span>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tāl visualizer</title>
+    <link href="../style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Laila:300,400,500,600,700&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <script src="../scripts/p5.min.js"></script>
+    <script src="../scripts/p5.dom.min.js"></script>
+    <script src="../scripts/p5.sound.min.js"></script>
+    <script src="../scripts/talFollowingSketch.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a id="language" href="../es/talFollowing.html">
+        <img id="flag" src="../images/spanish.png" alt="spanish flag">
+        Español
+      </a>
+      <a id="home" href="../index.html">Home</a>
+    </nav>
+    <main>
+      <h2>Tāl visualizer</h2>
+      <p>This visualizer allows to observe how the tāls studied in the <a href="talStudy.html">laboratory</a> are used in the real performance of a <i>khayāl</i>. Read the <a href="#instructions">instructions</a> below.</p>
+      <div id="sketch-holder">
+        <a id="info-link" target="_blank" a:link="text-decoration: none"></a>
+      </div>
+      <h3 id="instructions">Instructions</h3>
+      <p id="nota"><b>Note:</b> This tool still is work in progress and might experience some malfunctions. For an optimal performance, it is advised to use it in a computer (its use in tablets and cellphones might be too slow and cause synchronization problems) and with the browser <a href="https://www.google.com/chrome/">Chrome</a>.</p>
+      <ol>
+        <li>Before using this visualizer, it is adavised that you familiarize yourself with the tāls of these recordings in the <a href="talStudy.html">tāl laboratory</a>. This visualizer has the same design, and thus it will be easer to understand its functionalities. The rectangle at the bottom is a navigator. Its width corresponds to the total duration of the recording.</li>
+        <li>To start, select a recording from the upper left dropdown menu. Each option shows the title of the recording, the name of the main artist, the performed tāls, and the recording's duration. Once a recording is selected, boxes indicating the regions in which the recording's tāls are performed appear in the navigator. Vertical white lines indicate the position of each tāl cycle's <i>sam</i>. Regions without any tāl indication correspond to sections performed without tāl, that is, in free rhythm. The "+info" link redirects to the recording's page in the <a href="https://musicbrainz.org/">MusicBrainz</a> website.</li>
+        <li>Once a recording is selected, click the "Load the audio" button at the upper right corner to load the recording. Depending on the recording's duration, the internet connection and other factors, <b>this process might last even more than one minute</b>. While the recording is being loaded, a red cursor will move along a tāl circumference. As long as this cursor is moving, the recording is being loaded.</li>
+        <li>Once the recording is loaded, a clock appears over the navigator, indicating the total duration of the recording and the current playing time, and a vertical orange cursor on its leftmost side. Now you can click the "Start!" button to listen to the recording. Clicking at any point of the navigator, the recording jumps to that point. (It is advised not to click to often in the navigator, especially while the recording is playing).</li>
+        <li>As long as you become familiarized with the tāl performance, you can deselect the options "<i>ṭhekā</i>", to hide the <i>bols</i>, "cursor", to hide the red cursor, and "tāl", to hide the <i>mātrās</i>.</li>
+      </ol>
+    </main>
+    <section id="credits">
+      <p>The representation of tāl here used is inspired in the one developed and used by <a href="https://www.ragasphere.com/">RagaSphere</a>.</p>
+    </section>
+    <footer>
+      <span> <a href="https://www.upf.edu/web/musicalbridges"><img id="musicalbridges" src="../images/musicalbridges.png" alt="Logo de Musical Bridges"></a></span>
+    </footer>
+  </body>
+</html>

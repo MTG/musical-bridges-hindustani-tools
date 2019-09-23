@@ -1,0 +1,666 @@
+{
+  "ahirBhairav": {
+    "name": "राग अहीर भैरव",
+    "nameTrans": "Rāg Ahīr Bhairav",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -300,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -200,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 100,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 400,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 500,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 900,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1000,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1300,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1600,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 1700,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "bagesri": {
+    "name": "राग बागेश्री",
+    "nameTrans": "Rāg Bāgeśrī",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -300,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -200,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 200,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 300,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 500,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 900,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1000,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1400,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1500,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 1700,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "bhairavi": {
+    "name": "राग भैरवी",
+    "nameTrans": "Rāg Bhairavī",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -400,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -200,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 100,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 300,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 500,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 800,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1000,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1300,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1500,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 1700,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "bhimpalasi": {
+    "name": "राग भीमपलासी",
+    "nameTrans": "Rāg Bhīmpalāsī",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -300,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -200,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 200,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 300,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 500,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 900,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1000,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1400,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1500,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 1700,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "bhupali": {
+    "name": "राग भूपाल",
+    "nameTrans": "Rāg Bhūpālī",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -300,
+        "function": "samvadi"
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 200,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 400,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 900,
+        "function": "samvadi"
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1400,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1600,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "deskar": {
+    "name": "राग देशकार",
+    "nameTrans": "Rāg Deśkār",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -300,
+        "function": "vadi"
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 200,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 400,
+        "function": "samvadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 900,
+        "function": "vadi"
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1400,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1600,
+        "function": "samvadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "jog": {
+    "name": "राग जोग",
+    "nameTrans": "Rāg Jog",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -200,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Ga",
+        "cent": 300,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 400,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 500,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1000,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Ga",
+        "cent": 1500,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1600,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 1700,
+        "function": "vadi"
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "malkauns": {
+    "name": "राग मालकौंस",
+    "nameTrans": "Rāg Mālkauns",
+    "pitchSpace": [
+      {
+        "svara": "",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -400,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -200,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Ga",
+        "cent": 300,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 500,
+        "function": "vadi"
+      },
+      {
+        "svara": "Dha",
+        "cent": 800,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1000,
+        "function": ""
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Ga",
+        "cent": 1500,
+        "function": ""
+      },
+      {
+        "svara": "Ma",
+        "cent": 1700,
+        "function": "vadi"
+      },
+      {
+        "svara": "",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  },
+  "yaman": {
+    "name": "राग यमन",
+    "nameTrans": "Rāg Yaman",
+    "pitchSpace": [
+      {
+        "svara": "Pa",
+        "cent": -500,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": -300,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": -100,
+        "function": "samvadi"
+      },
+      {
+        "svara": "Sa",
+        "cent": 0,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 200,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 400,
+        "function": "vadi"
+      },
+      {
+        "svara": "Ma",
+        "cent": 600,
+        "function": ""
+      },
+      {
+        "svara": "Pa",
+        "cent": 700,
+        "function": ""
+      },
+      {
+        "svara": "Dha",
+        "cent": 900,
+        "function": ""
+      },
+      {
+        "svara": "Ni",
+        "cent": 1100,
+        "function": "samvadi"
+      },
+      {
+        "svara": "Sa",
+        "cent": 1200,
+        "function": "sadja"
+      },
+      {
+        "svara": "Re",
+        "cent": 1400,
+        "function": ""
+      },
+      {
+        "svara": "Ga",
+        "cent": 1600,
+        "function": "vadi"
+      },
+      {
+        "svara": "Ma",
+        "cent": 1800,
+        "function": ""
+      },
+      {
+        "svara": "Pa",
+        "cent": 1900,
+        "function": ""
+      }
+    ]
+  }
+}

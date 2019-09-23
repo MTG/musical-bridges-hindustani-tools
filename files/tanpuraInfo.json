@@ -1,0 +1,197 @@
+{
+  "levels" : {
+    "level1" : [0, 1, 2, 5, 7, 8, 10, 11, 12, 13, 14, 17, 20, 23, 26],
+    "level2" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27,
+                28],
+    "level3" : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27,
+                28, 29, 30, 31, 32, 33, 34, 35, 36],
+    "level" : [29, 30, 31, 32, 33, 34, 35, 36]
+  },
+  "soundsLib" : [
+    {
+      "fileName": "ac01.mp3",
+      "sa": 276,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "ac02.mp3",
+      "sa": 276,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "ac04.mp3",
+      "sa": 138,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "ac05.mp3",
+      "sa": 138,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "ac06.mp3",
+      "sa": 138,
+      "tuning": "PDSS"
+    },
+    {
+      "fileName": "ac08.mp3",
+      "sa": 138,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "ac09.mp3",
+      "sa": 138,
+      "tuning": "PNSS"
+    },
+    {
+      "fileName": "ac10.mp3",
+      "sa": 233,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "ac11.mp3",
+      "sa": 233,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "ac12.mp3",
+      "sa": 233,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "el02.mp3",
+      "sa": 130.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el03.mp3",
+      "sa": 130.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el04.mp3",
+      "sa": 130.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el05.mp3",
+      "sa": 130.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el06.mp3",
+      "sa": 110,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el07.mp3",
+      "sa": 110,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "el08.mp3",
+      "sa": 110,
+      "tuning": "NSSS"
+    },
+    {
+      "fileName": "el09.mp3",
+      "sa": 130.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el10.mp3",
+      "sa": 130.8,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "el11.mp3",
+      "sa": 130.8,
+      "tuning": "NSSS"
+    },
+    {
+      "fileName": "el12.mp3",
+      "sa": 146.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el13.mp3",
+      "sa": 146.8,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "el14.mp3",
+      "sa": 146.8,
+      "tuning": "NSSS"
+    },
+    {
+      "fileName": "el15.mp3",
+      "sa": 164.8,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el16.mp3",
+      "sa": 164.8,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "el17.mp3",
+      "sa": 164.8,
+      "tuning": "NSSS"
+    },
+    {
+      "fileName": "el18.mp3",
+      "sa": 185,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "el19.mp3",
+      "sa": 185,
+      "tuning": "MSSS"
+    },
+    {
+      "fileName": "el20.mp3",
+      "sa": 185,
+      "tuning": "NSSS"
+    },
+    {
+      "fileName": "52944bc0-4639-4760-be76-f2720a20be81_43-73.mp3",
+      "sa": 141.014,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "52944bc0-4639-4760-be76-f2720a20be81_219-249.mp3",
+      "sa": 141.014,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "bfefde58-4eb2-49b0-9c63-7e4ce1070e61_2-32.mp3",
+      "sa": 155.563,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "bfefde58-4eb2-49b0-9c63-7e4ce1070e61_204-234.mp3",
+      "sa": 155.563,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "c76cadd9-9e7b-4e9e-96dc-f79a9a8eed78_0-30.mp3",
+      "sa": 152.891,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "c76cadd9-9e7b-4e9e-96dc-f79a9a8eed78_76-106.mp3",
+      "sa": 152.891,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "e76e4ee3-bf5c-4d47-bb69-92b8d93035d8_0-30.mp3",
+      "sa": 155.563,
+      "tuning": "PSSS"
+    },
+    {
+      "fileName": "e76e4ee3-bf5c-4d47-bb69-92b8d93035d8_150-180.mp3",
+      "sa": 155.563,
+      "tuning": "PSSS"
+    }
+  ]
+}
