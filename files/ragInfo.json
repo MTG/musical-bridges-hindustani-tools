@@ -2,665 +2,99 @@
   "ahirBhairav": {
     "name": "राग अहीर भैरव",
     "nameTrans": "Rāg Ahīr Bhairav",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -300,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -200,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 100,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 400,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 500,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 900,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1000,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1300,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1600,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 1700,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "m",
+    "samvadi": "",
+    "pitchSpace": "SrGmPDn"
   },
   "bagesri": {
     "name": "राग बागेश्री",
     "nameTrans": "Rāg Bāgeśrī",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -300,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -200,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 200,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 300,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 500,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 900,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1000,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1400,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1500,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 1700,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "m",
+    "samvadi": "",
+    "pitchSpace": "SRgmPDn"
   },
   "bhairavi": {
     "name": "राग भैरवी",
     "nameTrans": "Rāg Bhairavī",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -400,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -200,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 100,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 300,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 500,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 800,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1000,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1300,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1500,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 1700,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "m",
+    "samvadi": "",
+    "pitchSpace": "SrgmPdn"
   },
   "bhimpalasi": {
     "name": "राग भीमपलासी",
     "nameTrans": "Rāg Bhīmpalāsī",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -300,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -200,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 200,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 300,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 500,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 900,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1000,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1400,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1500,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 1700,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "m",
+    "samvadi": "",
+    "pitchSpace": "SRgmPDn"
   },
   "bhupali": {
     "name": "राग भूपाल",
     "nameTrans": "Rāg Bhūpālī",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -300,
-        "function": "samvadi"
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 200,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 400,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 900,
-        "function": "samvadi"
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1400,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1600,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "G",
+    "samvadi": "D",
+    "pitchSpace": "SRGPD"
   },
   "deskar": {
     "name": "राग देशकार",
     "nameTrans": "Rāg Deśkār",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -300,
-        "function": "vadi"
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 200,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 400,
-        "function": "samvadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 900,
-        "function": "vadi"
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1400,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1600,
-        "function": "samvadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "D",
+    "samvadi": "G",
+    "pitchSpace": "SRGPD"
+  },
+  "gavati": {
+    "name": "राग गावत",
+    "nameTrans": "Rāg Gāvatī",
+    "vadi": "",
+    "samvadi": "P",
+    "pitchSpace": "SRGmPDn"
   },
   "jog": {
     "name": "राग जोग",
     "nameTrans": "Rāg Jog",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -200,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Ga",
-        "cent": 300,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 400,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 500,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1000,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Ga",
-        "cent": 1500,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1600,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 1700,
-        "function": "vadi"
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "m",
+    "samvadi": "",
+    "pitchSpace": "SgGmPn"
+  },
+  "kalyan": {
+    "name": "राग कल्याण",
+    "nameTrans": "Rāg Kalyāṇ",
+    "vadi": "G",
+    "samvadi": "N",
+    "pitchSpace": "SRGMPDN"
   },
   "malkauns": {
     "name": "राग मालकौंस",
     "nameTrans": "Rāg Mālkauns",
-    "pitchSpace": [
-      {
-        "svara": "",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -400,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -200,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Ga",
-        "cent": 300,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 500,
-        "function": "vadi"
-      },
-      {
-        "svara": "Dha",
-        "cent": 800,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1000,
-        "function": ""
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Ga",
-        "cent": 1500,
-        "function": ""
-      },
-      {
-        "svara": "Ma",
-        "cent": 1700,
-        "function": "vadi"
-      },
-      {
-        "svara": "",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "m",
+    "samvadi": "",
+    "pitchSpace": "Sgmdn"
+  },
+  "sri": {
+    "name": "राग श्री",
+    "nameTrans": "Rāg Śrī",
+    "vadi": "r",
+    "samvadi": "P",
+    "pitchSpace": "SrGMPdN"
+  },
+  "todi": {
+    "name": "राग तोडी",
+    "nameTrans": "Rāg Toḍī",
+    "vadi": "d",
+    "samvadi": "g",
+    "pitchSpace": "SrgMPdN"
   },
   "yaman": {
     "name": "राग यमन",
     "nameTrans": "Rāg Yaman",
-    "pitchSpace": [
-      {
-        "svara": "Pa",
-        "cent": -500,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": -300,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": -100,
-        "function": "samvadi"
-      },
-      {
-        "svara": "Sa",
-        "cent": 0,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 200,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 400,
-        "function": "vadi"
-      },
-      {
-        "svara": "Ma",
-        "cent": 600,
-        "function": ""
-      },
-      {
-        "svara": "Pa",
-        "cent": 700,
-        "function": ""
-      },
-      {
-        "svara": "Dha",
-        "cent": 900,
-        "function": ""
-      },
-      {
-        "svara": "Ni",
-        "cent": 1100,
-        "function": "samvadi"
-      },
-      {
-        "svara": "Sa",
-        "cent": 1200,
-        "function": "sadja"
-      },
-      {
-        "svara": "Re",
-        "cent": 1400,
-        "function": ""
-      },
-      {
-        "svara": "Ga",
-        "cent": 1600,
-        "function": "vadi"
-      },
-      {
-        "svara": "Ma",
-        "cent": 1800,
-        "function": ""
-      },
-      {
-        "svara": "Pa",
-        "cent": 1900,
-        "function": ""
-      }
-    ]
+    "vadi": "G",
+    "samvadi": "N",
+    "pitchSpace": "SRGMPDN"
+  },
+  "yamanKalyan": {
+    "name": "राग यमन कल्याण",
+    "nameTrans": "Rāg Yaman Kalyāṇ",
+    "vadi": "G",
+    "samvadi": "N",
+    "pitchSpace": "SRGmMPDN"
   }
 }

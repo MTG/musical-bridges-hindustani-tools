@@ -1,0 +1,474 @@
+{
+  "saptak1": [
+    {
+      "svara": "Sa",
+      "cent": 0,
+      "function": "sadja",
+      "key": "a"
+    },
+    {
+      "svara": "Re",
+      "cent": 200,
+      "function": "",
+      "key": "s"
+    },
+    {
+      "svara": "Ga",
+      "cent": 400,
+      "function": "",
+      "key": "d"
+    },
+    {
+      "svara": "Ma",
+      "cent": 500,
+      "function": "",
+      "key": "f"
+    },
+    {
+      "svara": "Pa",
+      "cent": 700,
+      "function": "",
+      "key": "g"
+    },
+    {
+      "svara": "Dha",
+      "cent": 900,
+      "function": "",
+      "key": "h"
+    },
+    {
+      "svara": "Ni",
+      "cent": 1100,
+      "function": "",
+      "key": "j"
+    },
+    {
+      "svara": "Sa",
+      "cent": 1200,
+      "function": "sadja",
+      "key": "k"
+    }
+  ],
+  "saptak2": [
+    {
+      "svara": "Śuddha Sa",
+      "cent": 0,
+      "function": "sadja",
+      "key": "a"
+    },
+    {
+      "svara": "Śuddha Re",
+      "cent": 200,
+      "function": "",
+      "key": "s"
+    },
+    {
+      "svara": "Śuddha Ga",
+      "cent": 400,
+      "function": "",
+      "key": "d"
+    },
+    {
+      "svara": "Śuddha Ma",
+      "cent": 500,
+      "function": "",
+      "key": "f"
+    },
+    {
+      "svara": "Śuddha Pa",
+      "cent": 700,
+      "function": "",
+      "key": "g"
+    },
+    {
+      "svara": "Śuddha Dha",
+      "cent": 900,
+      "function": "",
+      "key": "h"
+    },
+    {
+      "svara": "Śuddha Ni",
+      "cent": 1100,
+      "function": "",
+      "key": "j"
+    },
+    {
+      "svara": "Śuddha Sa",
+      "cent": 1200,
+      "function": "sadja",
+      "key": "k"
+    }
+  ],
+  "saptak3": [
+    {
+      "svara": "Śuddha Sa",
+      "cent": 0,
+      "function": "sadja",
+      "key": "a"
+    },
+    {
+      "svara": "Komal Re",
+      "cent": 100,
+      "function": "",
+      "key": "w"
+    },
+    {
+      "svara": "Śuddha Re",
+      "cent": 200,
+      "function": "",
+      "key": "s"
+    },
+    {
+      "svara": "Komal Ga",
+      "cent": 300,
+      "function": "",
+      "key": "e"
+    },
+    {
+      "svara": "Śuddha Ga",
+      "cent": 400,
+      "function": "",
+      "key": "d"
+    },
+    {
+      "svara": "Śuddha Ma",
+      "cent": 500,
+      "function": "",
+      "key": "f"
+    },
+    {
+      "svara": "Tīvra Ma",
+      "cent": 600,
+      "function": "",
+      "key": "t"
+    },
+    {
+      "svara": "Śuddha Pa",
+      "cent": 700,
+      "function": "",
+      "key": "g"
+    },
+    {
+      "svara": "Komal Dha",
+      "cent": 800,
+      "function": "",
+      "key": "y"
+    },
+    {
+      "svara": "Śuddha Dha",
+      "cent": 900,
+      "function": "",
+      "key": "h"
+    },
+    {
+      "svara": "Komal Ni",
+      "cent": 1000,
+      "function": "",
+      "key": "u"
+    },
+    {
+      "svara": "Śuddha Ni",
+      "cent": 1100,
+      "function": "",
+      "key": "j"
+    },
+    {
+      "svara": "Śuddha Sa",
+      "cent": 1200,
+      "function": "sadja",
+      "key": "k"
+    }
+  ],
+  "set1": [
+    {
+      "name": "Yaman",
+      "pitchSpace": [
+        {
+          "svara": "Sa",
+          "cent": 0.00,
+          "function": "sadja",
+          "key": "q"
+        },
+        {
+          "svara": "Re",
+          "cent": 200.00,
+          "function": "",
+          "key": "w"
+        },
+        {
+          "svara": "Ga",
+          "cent": 400.00,
+          "function": "",
+          "key": "e"
+        },
+        {
+          "svara": "Ma",
+          "cent": 600.00,
+          "function": "",
+          "key": "r"
+        },
+        {
+          "svara": "Pa",
+          "cent": 700.00,
+          "function": "",
+          "key": "t"
+        },
+        {
+          "svara": "Dha",
+          "cent": 900.00,
+          "function": "",
+          "key": "y"
+        },
+        {
+          "svara": "Ni",
+          "cent": 1100.01,
+          "function": "",
+          "key": "u"
+        },
+        {
+          "svara": "Sa",
+          "cent": 1200.01,
+          "function": "sadja",
+          "key": "i"
+        }
+      ]
+    },
+    {
+      "name": "Bhairav",
+      "pitchSpace": [
+        {
+          "svara": "Sa",
+          "cent": 0.0,
+          "function": "sadja",
+          "key": "a"
+        },
+        {
+          "svara": "Re",
+          "cent": 150.0,
+          "function": "",
+          "key": "s"
+        },
+        {
+          "svara": "Ga",
+          "cent": 390.0,
+          "function": "",
+          "key": "d"
+        },
+        {
+          "svara": "Ma",
+          "cent": 480.0,
+          "function": "",
+          "key": "f"
+        },
+        {
+          "svara": "Pa",
+          "cent": 700.0,
+          "function": "",
+          "key": "g"
+        },
+        {
+          "svara": "Dha",
+          "cent": 830.0,
+          "function": "",
+          "key": "h"
+        },
+        {
+          "svara": "Ni",
+          "cent": 1120.01,
+          "function": "",
+          "key": "j"
+        },
+        {
+          "svara": "Sa",
+          "cent": 1200.01,
+          "function": "sadja",
+          "key": "k"
+        }
+      ]
+    },
+    {
+      "name": "Bhūpālī",
+      "pitchSpace": [
+        {
+          "svara": "Sa",
+          "cent": 0,
+          "function": "sadja",
+          "key": "z"
+        },
+        {
+          "svara": "Re",
+          "cent": 200,
+          "function": "",
+          "key": "x"
+        },
+        {
+          "svara": "Ga",
+          "cent": 390,
+          "function": "vadi",
+          "key": "c"
+        },
+        {
+          "svara": "Pa",
+          "cent": 700,
+          "function": "",
+          "key": "v"
+        },
+        {
+          "svara": "Dha",
+          "cent": 900.01,
+          "function": "samvadi",
+          "key": "b"
+        },
+        {
+          "svara": "Sa",
+          "cent": 1200,
+          "function": "sadja",
+          "key": "n"
+        }
+      ]
+    }
+  ],
+  "set2": [
+    {
+      "name": "Malkauns",
+      "pitchSpace": [
+        {
+          "svara": "Sa",
+          "cent": 0,
+          "function": "sadja",
+          "key": "q"
+        },
+        {
+          "svara": "Ga",
+          "cent": 310,
+          "function": "",
+          "key": "w"
+        },
+        {
+          "svara": "Ma",
+          "cent": 500,
+          "function": "",
+          "key": "e"
+        },
+        {
+          "svara": "Dha",
+          "cent": 800,
+          "function": "",
+          "key": "r"
+        },
+        {
+          "svara": "Ni",
+          "cent": 1000.01,
+          "function": "",
+          "key": "t"
+        },
+        {
+          "svara": "Sa",
+          "cent": 1200.01,
+          "function": "sadja",
+          "key": "y"
+        }
+      ]
+    },
+    {
+      "name": "Toḍī",
+      "pitchSpace": [
+        {
+          "svara": "Sa",
+          "cent": 0.0,
+          "function": "sadja",
+          "key": "a"
+        },
+        {
+          "svara": "Re",
+          "cent": 100.0,
+          "function": "",
+          "key": "s"
+        },
+        {
+          "svara": "Ga",
+          "cent": 300.0,
+          "function": "",
+          "key": "d"
+        },
+        {
+          "svara": "Ma",
+          "cent": 610.0,
+          "function": "",
+          "key": "f"
+        },
+        {
+          "svara": "Pa",
+          "cent": 700.0,
+          "function": "",
+          "key": "g"
+        },
+        {
+          "svara": "Dha",
+          "cent": 800.0,
+          "function": "",
+          "key": "h"
+        },
+        {
+          "svara": "Ni",
+          "cent": 1110.01,
+          "function": "",
+          "key": "j"
+        },
+        {
+          "svara": "Sa",
+          "cent": 1200.01,
+          "function": "sadja",
+          "key": "k"
+        }
+      ]
+    },
+    {
+      "name": "Jog",
+      "pitchSpace": [
+        {
+          "svara": "Sa",
+          "cent": 0.0,
+          "function": "sadja",
+          "key": "z"
+        },
+        {
+          "svara": "Ga",
+          "cent": 290.0,
+          "function": "",
+          "key": "x"
+        },
+        {
+          "svara": "Ga",
+          "cent": 390.0,
+          "function": "",
+          "key": "c"
+        },
+        {
+          "svara": "Ma",
+          "cent": 490.0,
+          "function": "",
+          "key": "v"
+        },
+        {
+          "svara": "Pa",
+          "cent": 700.0,
+          "function": "",
+          "key": "b"
+        },
+        {
+          "svara": "Ni",
+          "cent": 1000.0,
+          "function": "",
+          "key": "n"
+        },
+        {
+          "svara": "Sa",
+          "cent": 1200.0,
+          "function": "sadja",
+          "key": "m"
+        }
+      ]
+    }
+  ]
+}
