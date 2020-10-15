@@ -22,6 +22,10 @@ nav, main, section, footer {
   padding: 20px 30px;
 }
 
+ #charPhrases {
+   width: 1070px;
+ }
+
 nav {
   /* text-align: right; */
   height: 1em;
