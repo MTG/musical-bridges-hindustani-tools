@@ -397,7 +397,7 @@ function start () {
       if (peak != undefined) {
         key = octave2[keyIndex];
         createSound(cents, sa, key);
-        keyIndex++
+        keyIndex++;
       } else {
         key = "";
       }
@@ -405,16 +405,6 @@ function start () {
       svaraList.push(svara);
     }
   }
-  // minHz = pitchSpace[0].cent-100;
-  // maxHz = pitchSpace[pitchSpace.length-1].cent+100;
-  // svaraList = [];
-  // soundList = {};
-  // for (var i = 0; i < pitchSpace.length; i++) {
-  //   var svara = new CreateSvara(pitchSpace[i]);
-  //   svaraList.push(svara);
-  //   createSound(pitchSpace[i]);
-  // }
-  // pitchTrack = currentRecording.rag.pitchTrack;
   pitchTrack = loadJSON('../files/pitchTracks/'+recordingsList[selectMenu.value()].mbid+'_pitchTrack.json');
   for (var i = 0; i < currentRecording.talList.length; i++) {
     var tal = currentRecording.talList[i];
@@ -595,13 +585,12 @@ function CreateSvara (svara, cents, vadi, samvadi, key) {
   }
 }
 
-function createSound (svara) {
-  this.pitch = svara.pitch;
-  this.key = svara.key;
+function createSound (cents, sa, key) {
+  this.pitch = sa * (2 ** (cents / 1200));
   this.osc = new p5.Oscillator();
   this.osc.setType("sawtooth");
   this.osc.freq(this.pitch);
-  soundList[this.key] = this.osc;
+  soundList[key] = this.osc;
 }
 
 function CreateTalCursor () {
