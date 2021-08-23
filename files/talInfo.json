@@ -219,12 +219,12 @@
       {
         "matra": 3,
         "vibhag": 0.2,
-        "bol": "tra"
+        "bol": "traka"
       },
       {
         "matra": 3.5,
         "vibhag": 0.25,
-        "bol": "ka"
+        "bol": ""
       },
       {
         "matra": 4,
@@ -254,12 +254,12 @@
       {
         "matra": 9,
         "vibhag": 5.2,
-        "bol": "tra"
+        "bol": "traka"
       },
       {
         "matra": 9.5,
         "vibhag": 5.25,
-        "bol": "ka"
+        "bol": ""
       },
       {
         "matra": 10,

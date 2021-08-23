@@ -348,7 +348,12 @@ function CreateStrokeCircle (matra, vibhag, circleType, bol) {
     var y = mouseX-width/2;
     var d = dist(this.x, this.y, x, y);
     if (d < this.radius) {
-      soundDic[this.bol.toLowerCase()].play();
+      if (this.bol.toLowerCase() == "traka") {
+        soundDic["traka"].play(); // the key "traka" contains the sound "tra"
+        soundDic[""].play(startTime=0.2); // the key "" contains the sound "ka"
+      } else {
+        soundDic[this.bol.toLowerCase()].play();
+      }
     }
   }
 }
@@ -493,7 +498,7 @@ function mouseClicked() {
     soundDic["kat"] = kat;
     ki = loadSound("../sounds/tablaStrokes/ka.mp3");
     soundDic["ki"] = ki;
-    soundDic["ka"] = ki;
+    soundDic[""] = ki;
     na = loadSound("../sounds/tablaStrokes/na.mp3");
     soundDic["na"] = na;
     ra = loadSound("../sounds/tablaStrokes/re.mp3");
@@ -508,7 +513,7 @@ function mouseClicked() {
     tun = loadSound("../sounds/tablaStrokes/tun.mp3");
     soundDic["tun"] = tun;
     tra = loadSound("../sounds/tablaStrokes/tra.mp3");
-    soundDic["tra"] = tra;
+    soundDic["traka"] = tra;
     var end = millis();
     print('Sounds loaded in ' + str(end-init)/1000 + ' seconds.');
     loaded = true;
