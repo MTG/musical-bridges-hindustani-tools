@@ -493,6 +493,7 @@ function mouseClicked() {
     soundDic["kat"] = kat;
     ki = loadSound("../sounds/tablaStrokes/ka.mp3");
     soundDic["ki"] = ki;
+    soundDic["ka"] = ki;
     na = loadSound("../sounds/tablaStrokes/na.mp3");
     soundDic["na"] = na;
     ra = loadSound("../sounds/tablaStrokes/re.mp3");
@@ -506,6 +507,8 @@ function mouseClicked() {
     soundDic["tin"] = tin;
     tun = loadSound("../sounds/tablaStrokes/tun.mp3");
     soundDic["tun"] = tun;
+    tra = loadSound("../sounds/tablaStrokes/tra.mp3");
+    soundDic["tra"] = tra;
     var end = millis();
     print('Sounds loaded in ' + str(end-init)/1000 + ' seconds.');
     loaded = true;

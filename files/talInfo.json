@@ -195,6 +195,84 @@
       }
     ]
   },
+  "drutektal": {
+    "name": "द्रुत एकताल",
+    "nameTrans": "drut ektāl",
+    "avart": 12,
+    "tempoInit": 200,
+    "theka": [
+      {
+        "matra": 0,
+        "vibhag": 1.1,
+        "bol": "dhin"
+      },
+      {
+        "matra": 1,
+        "vibhag": 1.2,
+        "bol": "dhin"
+      },
+      {
+        "matra": 2,
+        "vibhag": 0.1,
+        "bol": "dha"
+      },
+      {
+        "matra": 3,
+        "vibhag": 0.2,
+        "bol": "tra"
+      },
+      {
+        "matra": 3.5,
+        "vibhag": 0.25,
+        "bol": "ka"
+      },
+      {
+        "matra": 4,
+        "vibhag": 3.1,
+        "bol": "tun"
+      },
+      {
+        "matra": 5,
+        "vibhag": 3.2,
+        "bol": "na"
+      },
+      {
+        "matra": 6,
+        "vibhag": 0.1,
+        "bol": "kat"
+      },
+      {
+        "matra": 7,
+        "vibhag": 0.2,
+        "bol": "tin"
+      },
+      {
+        "matra": 8,
+        "vibhag": 5.1,
+        "bol": "dha"
+      },
+      {
+        "matra": 9,
+        "vibhag": 5.2,
+        "bol": "tra"
+      },
+      {
+        "matra": 9.5,
+        "vibhag": 5.25,
+        "bol": "ka"
+      },
+      {
+        "matra": 10,
+        "vibhag": 6.1,
+        "bol": "dhin"
+      },
+      {
+        "matra": 11,
+        "vibhag": 6.2,
+        "bol": "na"
+      }
+    ]
+  },
   "jhaptal": {
     "name": "झपताल",
     "nameTrans": "jhaptāl",
