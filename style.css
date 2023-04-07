@@ -22,7 +22,7 @@ nav, main, section, footer {
   padding: 20px 30px;
 }
 
- #charPhrases {
+ .charPhrases {
    width: 1070px;
  }
 
@@ -116,7 +116,7 @@ img {
 
 section {
   background-color: white;
-  width: 900px;
+  /* width: 900px; */
   margin: 2px auto;
   padding: 10px 30px;
   height: 100%;
@@ -129,10 +129,25 @@ section p {
 }
 
 #musicalbridges {
+  height: 60px;
+}
+
+.logo {
   height: 50px;
 }
 
-footer span {
+/* footer span {
   color: #79489F;
   font-weight: bold;
+} */
+
+footer div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+footer p {
+  font-size: 0.8em;
+  padding-bottom: 0.5em;
+  /* text-align: center; */
 }
