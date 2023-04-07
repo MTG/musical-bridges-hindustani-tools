@@ -213,27 +213,27 @@
       },
       {
         "matra": 2,
-        "vibhag": 0.1,
+        "vibhag": 1.3,
         "bol": "dha"
       },
       {
         "matra": 3,
-        "vibhag": 0.2,
+        "vibhag": 2.1,
         "bol": "traka"
       },
       {
         "matra": 3.5,
-        "vibhag": 0.25,
+        "vibhag": 2.15,
         "bol": ""
       },
       {
         "matra": 4,
-        "vibhag": 3.1,
+        "vibhag": 2.2,
         "bol": "tun"
       },
       {
         "matra": 5,
-        "vibhag": 3.2,
+        "vibhag": 2.3,
         "bol": "na"
       },
       {
@@ -248,27 +248,27 @@
       },
       {
         "matra": 8,
-        "vibhag": 5.1,
+        "vibhag": 0.3,
         "bol": "dha"
       },
       {
         "matra": 9,
-        "vibhag": 5.2,
+        "vibhag": 3.1,
         "bol": "traka"
       },
       {
         "matra": 9.5,
-        "vibhag": 5.25,
+        "vibhag": 3.15,
         "bol": ""
       },
       {
         "matra": 10,
-        "vibhag": 6.1,
+        "vibhag": 3.2,
         "bol": "dhin"
       },
       {
         "matra": 11,
-        "vibhag": 6.2,
+        "vibhag": 3.3,
         "bol": "na"
       }
     ]
